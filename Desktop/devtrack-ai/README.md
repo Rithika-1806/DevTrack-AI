@@ -1,5 +1,6 @@
 
-# Project Title
+# DEVTRACK-AI
+
 
 
 A modern AI-powered Developer Productivity Tracker that helps developers manage projects, track tasks, monitor GitHub activity, and gain AI-driven productivity insights through an elegant dashboard.
@@ -107,4 +108,12 @@ http://localhost:3000
 ![App Screenshot](https://github.com/user-attachments/assets/87b894ff-1a64-4508-abf0-eb083f84208d)
 
 ![App Screenshot](https://github.com/user-attachments/assets/34ef5f20-1cda-4fe1-9642-d1c4b6a6f88c)
+
+## Demo
+
+https://github.com/user-attachments/assets/dae2daa1-a8ea-4ddd-b3a0-f511b3114f03
+
+
+
+
 
